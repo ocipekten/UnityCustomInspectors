@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c459cceff43465547811fb4de6ae4ae2, type: 3}
+  m_Name: LevelDesignerConfig
+  m_EditorClassIdentifier: 
+  defaultPrefabs:
+  - {fileID: 6253244544478205281, guid: 178b4e50f2ee7f346a2fa6cad4cc3bfc, type: 3}
+  - {fileID: 684303183223056986, guid: 1c4c04ce60d62024bbed5810383264c8, type: 3}
+  - {fileID: 9011964932621385895, guid: 3386dc7b650e25d42bc00010e25ff3a3, type: 3}
+  - {fileID: 4423436432479223418, guid: aea6b5c1c2ac58d4ca3898d2ab1fc518, type: 3}
+  gridSize: 3
